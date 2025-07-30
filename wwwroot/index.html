@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Düğün Anıları">
+    <title>Düğün Anıları - Sünnet Düğünü</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#2563eb">
+</head>
+<body class="dark">
+    <!-- Loading Screen -->
+    <div class="loading-screen" id="loadingScreen">
+        <div class="loading-content">
+            <div class="loading-spinner"></div>
+            <h2>Anılar Yükleniyor...</h2>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1><i class="fas fa-heart"></i> Düğün Anıları</h1>
+                <div class="header-controls">
+                    <button class="theme-toggle" id="themeToggle">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                    <button class="add-memory-btn" id="addMemoryBtn">
+                        <i class="fas fa-plus"></i>
+                        Anı Ekle
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Welcome Popup Modal -->
+    <div class="modal welcome-modal active" id="welcomeModal">
+        <div class="modal-content welcome-popup">
+            <div class="welcome-content">
+                <div class="avatar">
+                    <i class="fas fa-user-circle"></i>
+                </div>
+                <h2>Ben Mete :)</h2>
+                <p class="welcome-message">
+                    Sünnet düğünümüze hoş geldin! Bu özel günde sizden çekildiğiniz fotoğrafları 
+                    anı albüme eklemenizi istiyorum. Birlikte güzel anılar biriktirmeye devam edelim.
+                </p>
+                <div class="welcome-actions">
+                    <button class="primary-btn" id="startSharingBtn">
+                        <i class="fas fa-camera"></i>
+                        Anı Paylaşmaya Başla
+                    </button>
+                    <button class="secondary-btn" id="continueWithoutWelcomeBtn">
+                        <i class="fas fa-arrow-right"></i>
+                        Devam Et
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Story Section -->
+    <section class="story-section">
+        <div class="container">
+            <h3 class="section-title">
+                <i class="fas fa-history"></i>
+                Son Anılar Hikayesi
+            </h3>
+            <div class="story-container">
+                <div class="story-carousel" id="storyCarousel">
+                    <!-- Story items will be loaded here -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Memories Feed -->
+    <main class="main-content">
+        <div class="container">
+            <h3 class="section-title">
+                <i class="fas fa-images"></i>
+                Tüm Anılarımız
+            </h3>
+            <div class="memories-grid" id="memoriesGrid">
+                <!-- Memories will be loaded here -->
+            </div>
+            
+            <!-- Load More Button -->
+            <div class="load-more-container">
+                <button class="load-more-btn" id="loadMoreBtn" style="display: none;">
+                    <i class="fas fa-arrow-down"></i>
+                    Daha Fazla Yükle
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Add Memory Modal -->
+    <div class="modal" id="addMemoryModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i class="fas fa-plus-circle"></i> Yeni Anı Ekle</h3>
+                <button class="close-btn" id="closeModalBtn">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            
+            <form class="memory-form" id="memoryForm">
+                <div class="form-group">
+                    <label for="memoryMessage">
+                        <i class="fas fa-comment"></i>
+                        Anı Mesajı
+                        <span class="required">*</span>
+                    </label>
+                    <textarea 
+                        id="memoryMessage" 
+                        name="message" 
+                        placeholder="Bu özel anı hakkında bir şeyler yazın..."
+                        required
+                        maxlength="500"
+                    ></textarea>
+                    <div class="char-counter">
+                        <span id="charCount">0</span>/500
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="memoryImages">
+                        <i class="fas fa-camera"></i>
+                        Fotoğraflar (1-4 adet)
+                        <span class="required">*</span>
+                    </label>
+                    <div class="file-upload-area" id="fileUploadArea">
+                        <input 
+                            type="file" 
+                            id="memoryImages" 
+                            name="images" 
+                            multiple 
+                            accept="image/jpeg,image/jpg,image/png,image/gif,image/webp"
+                            required
+                            max="4"
+                        >
+                        <div class="upload-placeholder">
+                            <i class="fas fa-cloud-upload-alt"></i>
+                            <p>Fotoğrafları sürükleyin veya tıklayın</p>
+                            <small>JPEG, PNG, GIF, WebP (Max: 50MB/dosya, 1-4 dosya)</small>
+                        </div>
+                    </div>
+                    <div class="image-preview" id="imagePreview"></div>
+                    <div class="add-more-container" id="addMoreContainer" style="display: none;">
+                        <button type="button" class="add-more-btn" id="addMoreBtn">
+                            <i class="fas fa-plus"></i>
+                            Daha Fazla Fotoğraf Ekle
+                        </button>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button type="button" class="cancel-btn" id="cancelBtn">
+                        <i class="fas fa-times"></i>
+                        İptal
+                    </button>
+                    <button type="submit" class="submit-btn" id="submitBtn">
+                        <i class="fas fa-heart"></i>
+                        Anıyı Paylaş
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Memory Detail Modal -->
+    <div class="modal" id="memoryDetailModal">
+        <div class="modal-content memory-detail">
+            <div class="modal-header">
+                <h3><i class="fas fa-heart"></i> Anı Detayı</h3>
+                <button class="close-btn" id="closeDetailBtn">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            
+            <div class="memory-detail-content" id="memoryDetailContent">
+                <!-- Memory detail will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Success Modal -->
+    <div class="modal" id="successModal">
+        <div class="modal-content success-content">
+            <div class="success-icon">
+                <i class="fas fa-check-circle"></i>
+            </div>
+            <h3>Teşekkür Ederim!</h3>
+            <p>Anınız başarıyla eklendi. Anı biriktirmeye devam edelim.</p>
+            <div class="success-actions">
+                <button class="primary-btn" id="continueBtn">
+                    <i class="fas fa-heart"></i>
+                    Anı Biriktirmeye Devam
+                </button>
+                <button class="secondary-btn" id="thankYouBtn">
+                    <i class="fas fa-smile"></i>
+                    Rica Ederim
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slideshow Modal -->
+    <div class="modal" id="slideshowModal">
+        <div class="modal-content slideshow-content">
+            <div class="slideshow-header">
+                <h3 id="slideshowTitle">Anı Fotoğrafları</h3>
+                <button class="close-btn" id="closeSlideshowBtn">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            
+            <div class="slideshow-container">
+                <div class="slideshow-wrapper" id="slideshowWrapper">
+                    <!-- Images will be loaded here -->
+                </div>
+                
+                <div class="slideshow-controls">
+                    <button class="slideshow-btn prev-btn" id="prevBtn">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button class="slideshow-btn next-btn" id="nextBtn">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+                
+                <div class="slideshow-indicators" id="slideshowIndicators">
+                    <!-- Indicators will be generated -->
+                </div>
+            </div>
+            
+                            <div class="slideshow-footer">
+                    <p id="slideshowMessage">Anı mesajı burada görünecek</p>
+                    <div class="slideshow-meta">
+                        <span id="slideshowCounter">1 / 1</span>
+                        <span id="slideshowDate">Tarih</span>
+                    </div>
+                    <div class="slideshow-actions">
+                        <button class="primary-btn" id="downloadCurrentBtn">
+                            <i class="fas fa-download"></i>
+                            Fotoğrafı İndir
+                        </button>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>
+                <i class="fas fa-heart"></i>
+                Mete'nin Sünnet Düğünü - 2024
+                <i class="fas fa-heart"></i>
+            </p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,2907 @@
+{
+  "Version": 1,
+  "Hash": "iYH7fLJ0l8UzMvZ3APhvcbLxxO+g+0pYeJdmVKw8Tbs=",
+  "Source": "DUGUNMETE",
+  "BasePath": "_content/DUGUNMETE",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DUGUNMETE\\wwwroot",
+      "Source": "DUGUNMETE",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\",
+      "BasePath": "_content/DUGUNMETE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\7ya5l8j2h5-wnsvq63kzy.gz",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "styles#[.{fingerprint=wnsvq63kzy}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lv34w4lcn1",
+      "Integrity": "oeyjST/tmkspiNTnwWO4vCgq5zzTfVoRBpzFWNFP1os=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\9tktlnp7hn-d0ntywwr68.gz",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "sw#[.{fingerprint=d0ntywwr68}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\sw.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ztnlvasuvk",
+      "Integrity": "GW0LcGlrX539xCgv7lCjIkoUt7ID+XFQpP89o73+TJY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\sw.js"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\lfyszovr8z-hz01b1oaal.gz",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "index#[.{fingerprint=hz01b1oaal}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z70t7xuq7w",
+      "Integrity": "X5EEIdSZDrNA1Gzoty8kVZLU7uc1oi1rQgqpwa5B/rg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\7ya5l8j2h5-wnsvq63kzy.br",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "styles#[.{fingerprint=wnsvq63kzy}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "ag4d3w5nf6",
+      "Integrity": "NjWrI0BGRNPAEHwIsj8/Vv0/4z4WoZcCKoLykvN8KDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\9tktlnp7hn-d0ntywwr68.br",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "sw#[.{fingerprint=d0ntywwr68}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\sw.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "cjyhn0dgk9",
+      "Integrity": "6O9Vxo4dk/CQWqdLn0pcuvRYdrxjHGBaxk15NzH/neM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\sw.js"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\lfyszovr8z-hz01b1oaal.br",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "index#[.{fingerprint=hz01b1oaal}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "imheds7hg3",
+      "Integrity": "RuLW9pwLGC/etYeCjCPpATPTXZitRHa8VpSLNDp3rc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q6409imv64-5h8ehbz856.br",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "manifest#[.{fingerprint=5h8ehbz856}]?.json.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\manifest.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "skbegkcu11",
+      "Integrity": "HFK+7wga3v8iyfsVo6J+ui4Ix9C4GymeG/Hddb8dM38=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q66tncngpx-ueumx5sxe8.br",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "script#[.{fingerprint=ueumx5sxe8}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "cfwf729y2l",
+      "Integrity": "GO/pmPNzLFXwtNdg6FK5EOLY4ZEHONYsMJcZbBnkx3M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q6409imv64-5h8ehbz856.gz",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "manifest#[.{fingerprint=5h8ehbz856}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\manifest.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4gtfakrazn",
+      "Integrity": "LHNrqwmaP+2B6/t2aK5xMVl/AiSiBXFNPN+XSRBai9M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q66tncngpx-ueumx5sxe8.gz",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "script#[.{fingerprint=ueumx5sxe8}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6d8yvjgah9",
+      "Integrity": "2onRuchPk3BR3Tejn9KtdS6b3U24OIMsDMy/dXmF6rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\index.html",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hz01b1oaal",
+      "Integrity": "PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\manifest.json",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5h8ehbz856",
+      "Integrity": "l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\script.js",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ueumx5sxe8",
+      "Integrity": "djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\styles.css",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wnsvq63kzy",
+      "Integrity": "3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\sw.js",
+      "SourceId": "DUGUNMETE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\",
+      "BasePath": "_content/DUGUNMETE",
+      "RelativePath": "sw#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d0ntywwr68",
+      "Integrity": "Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sw.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\lfyszovr8z-hz01b1oaal.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000402252615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2485"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5EEIdSZDrNA1Gzoty8kVZLU7uc1oi1rQgqpwa5B/rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\lfyszovr8z-hz01b1oaal.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000489476260"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2042"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuLW9pwLGC/etYeCjCPpATPTXZitRHa8VpSLNDp3rc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\lfyszovr8z-hz01b1oaal.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuLW9pwLGC/etYeCjCPpATPTXZitRHa8VpSLNDp3rc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuLW9pwLGC/etYeCjCPpATPTXZitRHa8VpSLNDp3rc0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\lfyszovr8z-hz01b1oaal.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5EEIdSZDrNA1Gzoty8kVZLU7uc1oi1rQgqpwa5B/rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5EEIdSZDrNA1Gzoty8kVZLU7uc1oi1rQgqpwa5B/rg="
+        }
+      ]
+    },
+    {
+      "Route": "index.hz01b1oaal.html",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\lfyszovr8z-hz01b1oaal.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000402252615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2485"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5EEIdSZDrNA1Gzoty8kVZLU7uc1oi1rQgqpwa5B/rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hz01b1oaal"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs="
+        }
+      ]
+    },
+    {
+      "Route": "index.hz01b1oaal.html",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\lfyszovr8z-hz01b1oaal.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000489476260"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2042"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuLW9pwLGC/etYeCjCPpATPTXZitRHa8VpSLNDp3rc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hz01b1oaal"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs="
+        }
+      ]
+    },
+    {
+      "Route": "index.hz01b1oaal.html",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hz01b1oaal"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUpbGRmAreo3tA01o/VOYWYW7GM08jql8r8P2vO3tPs="
+        }
+      ]
+    },
+    {
+      "Route": "index.hz01b1oaal.html.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\lfyszovr8z-hz01b1oaal.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuLW9pwLGC/etYeCjCPpATPTXZitRHa8VpSLNDp3rc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hz01b1oaal"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuLW9pwLGC/etYeCjCPpATPTXZitRHa8VpSLNDp3rc0="
+        }
+      ]
+    },
+    {
+      "Route": "index.hz01b1oaal.html.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\lfyszovr8z-hz01b1oaal.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5EEIdSZDrNA1Gzoty8kVZLU7uc1oi1rQgqpwa5B/rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hz01b1oaal"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5EEIdSZDrNA1Gzoty8kVZLU7uc1oi1rQgqpwa5B/rg="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.5h8ehbz856.json",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q6409imv64-5h8ehbz856.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001133786848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "881"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFK+7wga3v8iyfsVo6J+ui4Ix9C4GymeG/Hddb8dM38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h8ehbz856"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.5h8ehbz856.json",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q6409imv64-5h8ehbz856.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001067235859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHNrqwmaP+2B6/t2aK5xMVl/AiSiBXFNPN+XSRBai9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h8ehbz856"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.5h8ehbz856.json",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h8ehbz856"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.5h8ehbz856.json.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q6409imv64-5h8ehbz856.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFK+7wga3v8iyfsVo6J+ui4Ix9C4GymeG/Hddb8dM38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h8ehbz856"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFK+7wga3v8iyfsVo6J+ui4Ix9C4GymeG/Hddb8dM38="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.5h8ehbz856.json.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q6409imv64-5h8ehbz856.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHNrqwmaP+2B6/t2aK5xMVl/AiSiBXFNPN+XSRBai9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h8ehbz856"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHNrqwmaP+2B6/t2aK5xMVl/AiSiBXFNPN+XSRBai9M="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q6409imv64-5h8ehbz856.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001133786848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "881"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFK+7wga3v8iyfsVo6J+ui4Ix9C4GymeG/Hddb8dM38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q6409imv64-5h8ehbz856.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001067235859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHNrqwmaP+2B6/t2aK5xMVl/AiSiBXFNPN+XSRBai9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/DOQ1/tBzbKAFYP7D78ghpfJ8k4nIR6mPe8jYEcdaA="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q6409imv64-5h8ehbz856.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFK+7wga3v8iyfsVo6J+ui4Ix9C4GymeG/Hddb8dM38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFK+7wga3v8iyfsVo6J+ui4Ix9C4GymeG/Hddb8dM38="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q6409imv64-5h8ehbz856.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHNrqwmaP+2B6/t2aK5xMVl/AiSiBXFNPN+XSRBai9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHNrqwmaP+2B6/t2aK5xMVl/AiSiBXFNPN+XSRBai9M="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q66tncngpx-ueumx5sxe8.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000145475706"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6873"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GO/pmPNzLFXwtNdg6FK5EOLY4ZEHONYsMJcZbBnkx3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q66tncngpx-ueumx5sxe8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000126008065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7935"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2onRuchPk3BR3Tejn9KtdS6b3U24OIMsDMy/dXmF6rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q66tncngpx-ueumx5sxe8.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GO/pmPNzLFXwtNdg6FK5EOLY4ZEHONYsMJcZbBnkx3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GO/pmPNzLFXwtNdg6FK5EOLY4ZEHONYsMJcZbBnkx3M="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q66tncngpx-ueumx5sxe8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2onRuchPk3BR3Tejn9KtdS6b3U24OIMsDMy/dXmF6rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2onRuchPk3BR3Tejn9KtdS6b3U24OIMsDMy/dXmF6rQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.ueumx5sxe8.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q66tncngpx-ueumx5sxe8.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000145475706"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6873"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GO/pmPNzLFXwtNdg6FK5EOLY4ZEHONYsMJcZbBnkx3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ueumx5sxe8"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y="
+        }
+      ]
+    },
+    {
+      "Route": "script.ueumx5sxe8.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q66tncngpx-ueumx5sxe8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000126008065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7935"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2onRuchPk3BR3Tejn9KtdS6b3U24OIMsDMy/dXmF6rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ueumx5sxe8"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y="
+        }
+      ]
+    },
+    {
+      "Route": "script.ueumx5sxe8.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ueumx5sxe8"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-djj9yvpVF6dDC9vRLhIbGMiz35RXL9wT2bQzcFhvA9Y="
+        }
+      ]
+    },
+    {
+      "Route": "script.ueumx5sxe8.js.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\q66tncngpx-ueumx5sxe8.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GO/pmPNzLFXwtNdg6FK5EOLY4ZEHONYsMJcZbBnkx3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ueumx5sxe8"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GO/pmPNzLFXwtNdg6FK5EOLY4ZEHONYsMJcZbBnkx3M="
+        }
+      ]
+    },
+    {
+      "Route": "script.ueumx5sxe8.js.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\q66tncngpx-ueumx5sxe8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2onRuchPk3BR3Tejn9KtdS6b3U24OIMsDMy/dXmF6rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ueumx5sxe8"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2onRuchPk3BR3Tejn9KtdS6b3U24OIMsDMy/dXmF6rQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\7ya5l8j2h5-wnsvq63kzy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000211237854"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oeyjST/tmkspiNTnwWO4vCgq5zzTfVoRBpzFWNFP1os=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\7ya5l8j2h5-wnsvq63kzy.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000248508946"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4023"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjWrI0BGRNPAEHwIsj8/Vv0/4z4WoZcCKoLykvN8KDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\7ya5l8j2h5-wnsvq63kzy.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjWrI0BGRNPAEHwIsj8/Vv0/4z4WoZcCKoLykvN8KDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NjWrI0BGRNPAEHwIsj8/Vv0/4z4WoZcCKoLykvN8KDo="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\7ya5l8j2h5-wnsvq63kzy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oeyjST/tmkspiNTnwWO4vCgq5zzTfVoRBpzFWNFP1os=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oeyjST/tmkspiNTnwWO4vCgq5zzTfVoRBpzFWNFP1os="
+        }
+      ]
+    },
+    {
+      "Route": "styles.wnsvq63kzy.css",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\7ya5l8j2h5-wnsvq63kzy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000211237854"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oeyjST/tmkspiNTnwWO4vCgq5zzTfVoRBpzFWNFP1os=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnsvq63kzy"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.wnsvq63kzy.css",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\7ya5l8j2h5-wnsvq63kzy.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000248508946"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4023"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjWrI0BGRNPAEHwIsj8/Vv0/4z4WoZcCKoLykvN8KDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnsvq63kzy"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.wnsvq63kzy.css",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnsvq63kzy"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ARmj7/GIPs6iWe1Vwm75nqnIkjSa0E82dxf56o3HkI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.wnsvq63kzy.css.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\7ya5l8j2h5-wnsvq63kzy.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjWrI0BGRNPAEHwIsj8/Vv0/4z4WoZcCKoLykvN8KDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnsvq63kzy"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NjWrI0BGRNPAEHwIsj8/Vv0/4z4WoZcCKoLykvN8KDo="
+        }
+      ]
+    },
+    {
+      "Route": "styles.wnsvq63kzy.css.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\7ya5l8j2h5-wnsvq63kzy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oeyjST/tmkspiNTnwWO4vCgq5zzTfVoRBpzFWNFP1os=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 14:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnsvq63kzy"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oeyjST/tmkspiNTnwWO4vCgq5zzTfVoRBpzFWNFP1os="
+        }
+      ]
+    },
+    {
+      "Route": "sw.d0ntywwr68.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\9tktlnp7hn-d0ntywwr68.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001811594203"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0LcGlrX539xCgv7lCjIkoUt7ID+XFQpP89o73+TJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0ntywwr68"
+        },
+        {
+          "Name": "label",
+          "Value": "sw.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q="
+        }
+      ]
+    },
+    {
+      "Route": "sw.d0ntywwr68.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\9tktlnp7hn-d0ntywwr68.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.002207505519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6O9Vxo4dk/CQWqdLn0pcuvRYdrxjHGBaxk15NzH/neM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0ntywwr68"
+        },
+        {
+          "Name": "label",
+          "Value": "sw.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q="
+        }
+      ]
+    },
+    {
+      "Route": "sw.d0ntywwr68.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\sw.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0ntywwr68"
+        },
+        {
+          "Name": "label",
+          "Value": "sw.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q="
+        }
+      ]
+    },
+    {
+      "Route": "sw.d0ntywwr68.js.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\9tktlnp7hn-d0ntywwr68.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6O9Vxo4dk/CQWqdLn0pcuvRYdrxjHGBaxk15NzH/neM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0ntywwr68"
+        },
+        {
+          "Name": "label",
+          "Value": "sw.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6O9Vxo4dk/CQWqdLn0pcuvRYdrxjHGBaxk15NzH/neM="
+        }
+      ]
+    },
+    {
+      "Route": "sw.d0ntywwr68.js.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\9tktlnp7hn-d0ntywwr68.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0LcGlrX539xCgv7lCjIkoUt7ID+XFQpP89o73+TJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0ntywwr68"
+        },
+        {
+          "Name": "label",
+          "Value": "sw.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GW0LcGlrX539xCgv7lCjIkoUt7ID+XFQpP89o73+TJY="
+        }
+      ]
+    },
+    {
+      "Route": "sw.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\9tktlnp7hn-d0ntywwr68.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001811594203"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0LcGlrX539xCgv7lCjIkoUt7ID+XFQpP89o73+TJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q="
+        }
+      ]
+    },
+    {
+      "Route": "sw.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\9tktlnp7hn-d0ntywwr68.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.002207505519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6O9Vxo4dk/CQWqdLn0pcuvRYdrxjHGBaxk15NzH/neM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q="
+        }
+      ]
+    },
+    {
+      "Route": "sw.js",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\wwwroot\\sw.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0SWiRg6VCy7s4EnwtE06PJf603wPcb4FKgRP6XEJ3Q="
+        }
+      ]
+    },
+    {
+      "Route": "sw.js.br",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\publish\\9tktlnp7hn-d0ntywwr68.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6O9Vxo4dk/CQWqdLn0pcuvRYdrxjHGBaxk15NzH/neM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6O9Vxo4dk/CQWqdLn0pcuvRYdrxjHGBaxk15NzH/neM="
+        }
+      ]
+    },
+    {
+      "Route": "sw.js.gz",
+      "AssetFile": "C:\\dugunmete2\\DUGUNMETE\\obj\\Release\\net9.0\\compressed\\9tktlnp7hn-d0ntywwr68.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0LcGlrX539xCgv7lCjIkoUt7ID+XFQpP89o73+TJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 12:18:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GW0LcGlrX539xCgv7lCjIkoUt7ID+XFQpP89o73+TJY="
+        }
+      ]
+    }
+  ]
+}
